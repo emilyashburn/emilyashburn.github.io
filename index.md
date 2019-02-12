@@ -14,10 +14,14 @@
 # Projects
 #### Works in Progress
 * mASK Software Engineering project
+        * 
 * Wizard101 Combat Calculator
+        * 
 * Hexadecimal / Decimal / Binary converter
 
 #### Planned
 *
 *
-### Header 3
+# Extra-curricular Activities
+* Memory Project paintings - Portraits of Kindness (2013-present)
+        * Currently, I have contributed 7 paintings to the Memory Project. Here are some examples of my work:
