@@ -1,9 +1,15 @@
 # Welcome to my page!
-
-        Emily.interests();
+        
         Emily.major();
+                "Computer Science"
+        Emily.minor();
+                ["Mathematics", "New Media and Design"]
+        Emily.interests();
+                ["Painting", "Design", "Computers"]
         Emily.resume();
+                "emilyAshburn.pdf"
         Emily.email();
-        enashburn99@gmail.com
+                "enashburn99@gmail.com"
+                
 ## Header 2
 ### Header 3
