@@ -1,13 +1,11 @@
 # About Me
-## Emily Ashburn
-#### Computer Science Major
         
         Emily.major();
                 "Computer Science"
         Emily.minor();
                 ["Mathematics", "New Media and Design"]
         Emily.interests();
-                ["Painting", "Design", "Computers"]
+                ["Painting", "Graphic Design", "Computers", "Web Development",]
         Emily.resume();
                 "emilyAshburn.pdf"
         Emily.email();
