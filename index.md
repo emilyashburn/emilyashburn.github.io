@@ -1,4 +1,6 @@
-# Welcome to my page!
+# About Me
+## Emily Ashburn
+#### Computer Science Major
         
         Emily.major();
                 "Computer Science"
