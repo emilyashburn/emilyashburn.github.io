@@ -13,9 +13,9 @@
                 
 # Projects
 #### Works in Progress
-*mASK Software Engineering project
-*Wizard101 Combat Calculator
-*Hexadecimal / Decimal / Binary converter
+* mASK Software Engineering project
+* Wizard101 Combat Calculator
+* Hexadecimal / Decimal / Binary converter
 
 #### Planned
 *
