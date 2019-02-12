@@ -11,5 +11,13 @@
         Emily.email();
                 "enashburn99@gmail.com"
                 
-## Header 2
+# Projects
+#### Works in Progress
+*mASK Software Engineering project
+*Wizard101 Combat Calculator
+*Hexadecimal / Decimal / Binary converter
+
+#### Planned
+*
+*
 ### Header 3
