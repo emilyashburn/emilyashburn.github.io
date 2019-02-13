@@ -25,7 +25,7 @@ CSC330: Advanced Data Structures
 
 CSC339: Concepts of Programming Languages
 
-CSC340: 340 Software Engineering
+CSC340: Software Engineering
 
 CSC350: Foundations of Computer Science II
 
