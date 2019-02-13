@@ -66,4 +66,4 @@ ART240: 2D Foundations II
   * Spartan Game Developers
 
 - **Peer mentor** - STAMPS
-        - Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
+  - Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
