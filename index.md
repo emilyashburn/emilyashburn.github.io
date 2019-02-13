@@ -1,18 +1,33 @@
 # About Me
         
-Emily.major();
-* "Computer Science"
-Emily.minor();
-* ["Mathematics", "New Media and Design"]
-Emily.interests();
-* ["Painting", "Graphic Design", "Computers", "Web Development",]
-Emily.resume();
-* "emilyAshburn.pdf"
-Emily.email();
-* "enashburn99@gmail.com"
+        Emily.major();
+                "Computer Science"
+        Emily.minor();
+                ["Mathematics", "New Media and Design"]
+        Emily.interests();
+                ["Painting", "Graphic Design", "Computers", "Web Development",]
+        Emily.resume();
+                "emilyAshburn.pdf"
+        Emily.email();
+                "enashburn99@gmail.com"
                 
-# Relevant Coursework
+# Coursework
+#### Computer Science
+CSC130: Introduction to Computer Science
+CSC230: Elementary Data Structures and Algorithms
+CSC250: Foundations of Computer Science I
+CSC261: Computer Organization and Assembly Language
+CSC330: Advanced Data Structures
+CSC339: Concepts of Programming Languages
+CSC340: 340 Software Engineering
+CSC350: Foundations of Computer Science II
+CSC471: Principles of Database Systems
 
+#### Other
+SPA204:
+ART120:
+ART140:
+ART240:
                 
 # Projects
 #### Works in Progress
