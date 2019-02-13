@@ -33,13 +33,13 @@ CSC471: Principles of Database Systems
 
 
 #### Other
-SPA204:
+SPA204: Intermediate Spanish II (4 semesters of Spanish)
 
-ART120:
+ART120: Fundamentals of Drawing
 
-ART140:
+ART140: 2D Design Foundations I
 
-ART240:
+ART240: 2D Foundations II
                 
 # Projects
 #### Works in Progress
@@ -60,5 +60,5 @@ ART240:
         
 * Clubs: InfoSEC, ACM(Association for Computing Machinery), Spartan Game Developers
 
-* <b>Peer mentor</b> - STAMPS
+* Peer mentor - STAMPS
         * Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
