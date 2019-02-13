@@ -15,6 +15,7 @@
                 
 # Coursework
 #### Computer Science
+*//Includes past and currently enrolled courses*
 CSC130: Introduction to Computer Science
 
 CSC230: Elementary Data Structures and Algorithms
@@ -44,12 +45,13 @@ ART140: 2D Design Foundations I
 ART240: 2D Foundations II
                 
 # Projects
-- Works in Progress
+- **Works in Progress**
+*//Includes side projects and course projects*
   - mASK Software Engineering project
   - Wizard101 Combat Calculator
   - Hexadecimal / Decimal / Binary converter
 
-- Planned
+- **Planned**
 
 
 # Extra-curricular Activities
@@ -61,11 +63,11 @@ ART240: 2D Foundations II
         
         
 - **Clubs**: 
-  * InfoSEC
+  * InfoSEC *//Member*
         
-  * ACM*(Association for Computing Machinery)*
+  * ACM*(Association for Computing Machinery)* *//Member*
         
-  * Spartan Game Developers
+  * Spartan Game Developers *//Member*
 
 - **Peer mentor** - STAMPS
   - Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
