@@ -10,6 +10,8 @@
                 ["Painting", "Graphic Design", "Computers"]
         Emily.email();
                 "enashburn99@gmail.com"
+        Emily.gitHub();
+                !["github.com/emilyashburn"](https://github.com/emilyashburn)
                 
 # Coursework
 #### Computer Science
