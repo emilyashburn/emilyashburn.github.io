@@ -52,7 +52,7 @@ ART240: 2D Foundations II
 
 # Extra-curricular Activities
 - **Memory Project paintings** - *Portraits of Kindness (2013-present)*
-  * Painting portraits of orphaned children in third world countries. Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. [Learn more about it here.](https://www.memoryproject.org/) Here are some examples of my work:
+  * Painting portraits of children facing difficult challenges in third world countries. Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. [Learn more about it here.](https://www.memoryproject.org/) Here are some examples of my work:
         ![Img1](https://imgur.com/8PjN2gS.png)
         ![Img2](https://imgur.com/hUq1noI.png)
         ![Img3](https://imgur.com/0KNIKcC.png)
