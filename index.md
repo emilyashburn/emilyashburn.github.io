@@ -60,5 +60,5 @@ ART240:
         
 * Clubs: InfoSEC, ACM(Association for Computing Machinery), Spartan Game Developers
 
-* Peer mentor - STAMPS
+* <b>Peer mentor</b> - STAMPS
         * Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
