@@ -2,14 +2,19 @@
         
 Emily.major();
   - "Computer Science"
+  
 Emily.minor();
   - ["Mathematics", "New Media and Design"]
+  
 Emily.origin();
   - ["King", "North Carolina"]
+  
 Emily.interests();
   - ["Painting", "Graphic Design", "Computers"]
+  
 Emily.email();
   - "enashburn99@gmail.com"
+  
 Emily.gitHub();
   - [My GitHub](https://github.com/emilyashburn)
                 
