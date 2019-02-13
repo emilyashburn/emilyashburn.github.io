@@ -42,17 +42,17 @@ ART140: 2D Design Foundations I
 ART240: 2D Foundations II
                 
 # Projects
-#### Works in Progress
-- mASK Software Engineering project
-- Wizard101 Combat Calculator
-- Hexadecimal / Decimal / Binary converter
+- Works in Progress
+  - mASK Software Engineering project
+  - Wizard101 Combat Calculator
+  - Hexadecimal / Decimal / Binary converter
 
-#### Planned
+- Planned
 
 
 # Extra-curricular Activities
 - **Memory Project paintings** - *Portraits of Kindness (2013-present)*
-  * Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. [Learn more about it here.](https://www.memoryproject.org/) Here are some examples of my work:
+  * Painting portraits of orphaned children in third world countries. Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. [Learn more about it here.](https://www.memoryproject.org/) Here are some examples of my work:
         ![Img1](https://imgur.com/8PjN2gS.png)
         ![Img2](https://imgur.com/hUq1noI.png)
         ![Img3](https://imgur.com/0KNIKcC.png)
