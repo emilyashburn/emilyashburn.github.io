@@ -62,6 +62,7 @@ ART240: 2D Foundations II
 
 - **Planned**
 
+  - TASBot for speedrunning a specific game
 
 # Extra-curricular Activities
 - **Memory Project paintings** - *Portraits of Kindness (2013-present)*
