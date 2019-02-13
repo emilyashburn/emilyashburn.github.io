@@ -5,7 +5,7 @@
         Emily.minor();
                 ["Mathematics", "New Media and Design"]
         Emily.interests();
-                ["Painting", "Graphic Design", "Computers", "Web Development",]
+                ["Painting", "Graphic Design", "Computers"]
         Emily.resume();
                 "emilyAshburn.pdf"
         Emily.email();
