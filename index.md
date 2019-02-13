@@ -16,6 +16,7 @@ Emily.gitHub();
 # Coursework
 #### Computer Science
 *//Includes past and currently enrolled courses*
+
 CSC130: Introduction to Computer Science
 
 CSC230: Elementary Data Structures and Algorithms
@@ -45,8 +46,11 @@ ART140: 2D Design Foundations I
 ART240: 2D Foundations II
                 
 # Projects
-- **Works in Progress**
+
 *//Includes side projects and course projects*
+
+- **Works in Progress**
+
   - mASK Software Engineering project
   - Wizard101 Combat Calculator
   - Hexadecimal / Decimal / Binary converter
