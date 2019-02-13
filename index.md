@@ -7,7 +7,7 @@
         Emily.interests();
                 ["Painting", "Graphic Design", "Computers"]
         Emily.resume();
-                ["emilyAshburn.pdf"] (https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad7acc6fa-2c49-44de-a0d1-1a9bdc6812a7)
+                ["emilyAshburn.pdf"](https://adobe.ly/2SrS9iR)
         Emily.email();
                 "enashburn99@gmail.com"
                 
@@ -53,9 +53,9 @@ ART240:
 # Extra-curricular Activities
 * Memory Project paintings - Portraits of Kindness (2013-present)
         * Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. Here are some examples of my work:
-        ![](https://imgur.com/8PjN2gS)
-        ![](https://imgur.com/hUq1noI)
-        ![](https://imgur.com/0KNIKcC)
+        ![Img1](https://imgur.com/8PjN2gS)
+        ![Img2](https://imgur.com/hUq1noI)
+        ![Img3](https://imgur.com/0KNIKcC)
         
         
 * Clubs: InfoSEC, ACM(Association for Computing Machinery), Spartan Game Developers
