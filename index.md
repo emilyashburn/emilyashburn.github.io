@@ -14,19 +14,31 @@
 # Coursework
 #### Computer Science
 CSC130: Introduction to Computer Science
+
 CSC230: Elementary Data Structures and Algorithms
+
 CSC250: Foundations of Computer Science I
+
 CSC261: Computer Organization and Assembly Language
+
 CSC330: Advanced Data Structures
+
 CSC339: Concepts of Programming Languages
+
 CSC340: 340 Software Engineering
+
 CSC350: Foundations of Computer Science II
+
 CSC471: Principles of Database Systems
+
 
 #### Other
 SPA204:
+
 ART120:
+
 ART140:
+
 ART240:
                 
 # Projects
