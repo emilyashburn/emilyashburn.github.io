@@ -52,13 +52,16 @@ ART240: 2D Foundations II
 
 # Extra-curricular Activities
 * **Memory Project paintings** - Portraits of Kindness (2013-present)
-        * Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. Here are some examples of my work:
+- Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. Here are some examples of my work:
         ![Img1](https://imgur.com/8PjN2gS.png)
         ![Img2](https://imgur.com/hUq1noI.png)
         ![Img3](https://imgur.com/0KNIKcC.png)
         
         
-* **Clubs**: InfoSEC, ACM(Association for Computing Machinery), Spartan Game Developers
+* **Clubs**: 
+- InfoSEC
+- ACM*(Association for Computing Machinery)*
+- Spartan Game Developers
 
 * **Peer mentor** - STAMPS
-* Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
+- Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
