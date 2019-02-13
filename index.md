@@ -60,7 +60,9 @@ ART240: 2D Foundations II
         
 - **Clubs**: 
         - InfoSEC
+        
         - ACM*(Association for Computing Machinery)*
+        
         - Spartan Game Developers
 
 - **Peer mentor** - STAMPS
