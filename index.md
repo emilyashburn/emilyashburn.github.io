@@ -7,7 +7,7 @@
         Emily.interests();
                 ["Painting", "Graphic Design", "Computers"]
         Emily.resume();
-                "emilyAshburn.pdf"
+                ["emilyAshburn.pdf"] (https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ad7acc6fa-2c49-44de-a0d1-1a9bdc6812a7)
         Emily.email();
                 "enashburn99@gmail.com"
                 
