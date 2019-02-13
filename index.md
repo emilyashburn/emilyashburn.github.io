@@ -1,5 +1,8 @@
 # About Me
         
+Emily.aboutMe();
+  - "An artist at heart, raised by the internet"
+
 Emily.major();
   - "Computer Science"
   
