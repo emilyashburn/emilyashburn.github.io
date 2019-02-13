@@ -33,7 +33,7 @@ CSC471: Principles of Database Systems
 
 
 #### Other
-SPA204: Intermediate Spanish II (4 semesters of Spanish)
+SPA204: Intermediate Spanish II *(4 semesters of Spanish)*
 
 ART120: Fundamentals of Drawing
 
@@ -43,25 +43,25 @@ ART240: 2D Foundations II
                 
 # Projects
 #### Works in Progress
-* mASK Software Engineering project
-* Wizard101 Combat Calculator
-* Hexadecimal / Decimal / Binary converter
+- mASK Software Engineering project
+- Wizard101 Combat Calculator
+- Hexadecimal / Decimal / Binary converter
 
 #### Planned
 
 
 # Extra-curricular Activities
-* **Memory Project paintings** - Portraits of Kindness (2013-present)
-- Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. Here are some examples of my work:
+- **Memory Project paintings** - *Portraits of Kindness (2013-present)*
+        - Started contributing to this national project in freshman year of Highschool. Currently, I have contributed 7 paintings to the Memory Project. Here are some examples of my work:
         ![Img1](https://imgur.com/8PjN2gS.png)
         ![Img2](https://imgur.com/hUq1noI.png)
         ![Img3](https://imgur.com/0KNIKcC.png)
         
         
-* **Clubs**: 
-- InfoSEC
-- ACM*(Association for Computing Machinery)*
-- Spartan Game Developers
+- **Clubs**: 
+        - InfoSEC
+        - ACM*(Association for Computing Machinery)*
+        - Spartan Game Developers
 
-* **Peer mentor** - STAMPS
-- Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
+- **Peer mentor** - STAMPS
+        - Serving as a mentor for new recipients of the STAMPS (Science, Technology and Math Preparation Scholarships) scholarship
