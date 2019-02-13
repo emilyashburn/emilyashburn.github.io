@@ -16,7 +16,7 @@ Emily.email();
   - "enashburn99@gmail.com"
   
 Emily.gitHub();
-  - [My GitHub](https://github.com/emilyashburn)
+  - [github.com/emilyashburn](https://github.com/emilyashburn)
                 
 # Coursework
 #### Computer Science
