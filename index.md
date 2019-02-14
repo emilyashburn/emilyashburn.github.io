@@ -43,6 +43,10 @@ CSC350: Foundations of Computer Science II
 
 CSC471: Principles of Database Systems
 
+MAT191/292: Calculus I/II
+
+MAT310 : Elementary Linear Algebra
+
 
 #### Other
 SPA204: Intermediate Spanish II *(4 semesters of Spanish)*
@@ -59,9 +63,10 @@ ART240: 2D Foundations II
 
 - **Works in Progress**
 
-  - mASK Software Engineering project
-  - Wizard101 Combat Calculator
-  - Hexadecimal / Decimal / Binary converter
+  - mASK Software Engineering project (Java)
+  - Wizard101 Combat Calculator (C++)
+  - Portfolio website (HTML5, JS)
+  - Hexadecimal / Decimal / Binary converter (Java)
 
 - **Planned**
 
