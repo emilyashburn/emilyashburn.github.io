@@ -25,17 +25,6 @@ Emily.gitHub();
 #### Computer Science
 *//Includes past and currently enrolled courses*
 
-<div class="clearfix p-3 border border-gray">
-  <div class="float-left p-3 mr-3 bg-gray">
-    Image
-  </div>
-  <div class="float-right p-3 ml-3 bg-gray">
-    Image
-  </div>
-  <div class="overflow-hidden">
-    <p><b>Body</b> Bacon ipsum dolor amet shankle rump tenderloin pork chop meatball strip steak bresaola doner sirloin capicola biltong shank pig. Alcatra frankfurter ham hock, ribeye prosciutto hamburger kevin brisket chuck burgdoggen short loin.</p>
-  </div>
-</div>
 
 CSC130: Introduction to Computer Science
 
